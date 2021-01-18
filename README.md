@@ -7,3 +7,5 @@ Steps:
 4. Train the data using "image_classifier".
 5. And evaluate the test data.
 6. Convert the model to Tflite file which can be used in Android or Pi, etc.
+
+Refrences: https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/lite/g3doc/tutorials/model_maker_image_classification.ipynb#scrollTo=Im6wA9lK3TQB
